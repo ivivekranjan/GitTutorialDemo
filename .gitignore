@@ -1,5 +1,12 @@
 error.log
 
-#*.log
+*.log
 error - Copy (7).log
 error - Copy (4).log
+
+
+!/dir/
+
+
+
+
